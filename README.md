@@ -24,21 +24,6 @@ This project examines the relationships between the UK’s Banking, Real Estate,
   - **TensorFlow**: Deep learning
   - **Statsmodels**: Statistical modeling
 
----
-
-## **Files and Folders**
-- **data/**  
-  - `final.csv`: Raw dataset for financial markets and commodities.
-- **notebooks/**  
-  - `EDA.ipynb`: Exploratory data analysis.
-  - `Model_Training.ipynb`: Model training and evaluation.
-- **src/**  
-  - `preprocess.py`: Data preprocessing scripts.
-  - `train_models.py`: Scripts for model training.
-  - `granger_analysis.py`: Granger Causality analysis.
-- **results/**  
-  - `metrics.csv`: Model performance metrics.
-  - `plots/`: Visualizations of results.
 
 ---
 
